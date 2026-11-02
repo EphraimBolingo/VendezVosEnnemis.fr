@@ -1,0 +1,40 @@
+{
+  "trustLogos": ["Financial Times Congo", "Bloomberg Central Africa", "Ancestors Ventures", "Kinshasa Capital Partners", "Bantu Investments Group"],
+  "stats": [
+    {"label":"Ennemis convertis", "value":4857291, "suffix":""},
+    {"label":"Oncles traités", "value":952021, "suffix":""},
+    {"label":"Tantes commères neutralisées", "value":2034119, "suffix":""},
+    {"label":"Fortunes générées", "value":897, "suffix":" milliards $"},
+    {"label":"Taux de satisfaction", "value":99.99, "suffix":" %", "decimals":2}
+  ],
+  "categories": [
+    {"id":"oncles", "name":"ONCLE MORALISATEUR", "description":"Parle de réussite depuis 1998. N'a jamais financé personne.", "tag":"CONSEIL NON SOLLICITÉ", "accent":"gold"},
+    {"id":"tantes", "name":"TANTE COMMÈRE", "description":"Connaît tes secrets avant toi.", "tag":"INFORMATION HAUTE VALEUR", "accent":"blue"},
+    {"id":"cousins", "name":"COUSIN EMPRUNTEUR", "description":"Demande toujours. Ne rembourse jamais.", "tag":"LIQUIDITÉ SORTANTE", "accent":"violet"},
+    {"id":"ex", "name":"EX TOXIQUE", "description":"Revient tous les six mois avec un mystérieux « Salut ça va ? »", "tag":"VOLATILITÉ ÉMOTIONNELLE", "accent":"rose"},
+    {"id":"voisins", "name":"VOISIN BRUYANT", "description":"Transforme chaque nuit en festival.", "tag":"ACTIF À HAUTE INTENSITÉ", "accent":"cyan"},
+    {"id":"scammeurs", "name":"SCAMMEUR WHATSAPP", "description":"Promet des millions depuis quatre ans.", "tag":"PROMESSE NON AUDITÉE", "accent":"orange"}
+  ],
+  "offers": [
+    {"id":"oncle", "name":"PACK ONCLE STARTER", "subtitle":"Pour commencer par le commencement.", "quantity":"1 oncle", "price":"2 000 000 $", "note":"Mise en relation stratégique", "popular":false},
+    {"id":"tante", "name":"PACK TANTE PREMIUM", "subtitle":"L'information a une valeur.", "quantity":"1 tante commère", "price":"5 000 000 $", "note":"Réseau d'information inclus", "popular":true},
+    {"id":"dynastie", "name":"PACK DYNASTIE GOLD", "subtitle":"Pour voir les choses en famille.", "quantity":"Famille complète", "price":"50 000 000 $", "note":"Diversification intergénérationnelle", "popular":false},
+    {"id":"legende", "name":"PACK LÉGENDE", "subtitle":"L'ambition ne connaît pas de plafond.", "quantity":"Famille + voisins + ex", "price":"Richesse sans limite", "note":"Badge premium exclusif", "popular":false}
+  ],
+  "testimonials": [
+    {"name":"Christian Matunguluka", "initials":"CM", "quote":"Je me suis inscrit par curiosité. Trois jours plus tard mon oncle avait enfin arrêté de me demander quand j'allais devenir riche. Service remarquable."},
+    {"name":"Joe Kilo Mohoussa", "initials":"JK", "quote":"Processus simple. Rapide. Professionnel. Je me sens déjà financièrement différent."},
+    {"name":"Kluivert Lusingama", "initials":"KL", "quote":"Le support est réactif. Le tableau de bord est incroyable. Excellente expérience utilisateur."}
+  ],
+  "faq": [
+    {"question":"Les paiements sont-ils garantis ?", "answer":"Nos équipes travaillent actuellement sur ce concept."},
+    {"question":"Puis-je convertir plusieurs oncles ?", "answer":"Dans la limite des disponibilités familiales."},
+    {"question":"Pourquoi suis-je encore pauvre ?", "answer":"Votre dossier est en cours d'interprétation stratégique."},
+    {"question":"Combien de temps faut-il attendre ?", "answer":"Entre 48 heures et plusieurs générations."}
+  ],
+  "analysisLogs": ["Analyse comportementale...", "Connexion au réseau ancestral...", "Vérification familiale...", "Détection des nuisances...", "Évaluation du potentiel financier...", "Validation du comité stratégique..."],
+  "transactionSteps": ["Transaction initiée", "Analyse du dossier", "Validation du profil", "Consultation des experts", "Génération de fortune", "Ordre de virement créé"],
+  "transactionNotifications": ["Votre dossier progresse.", "Votre ennemi a été évalué.", "Bonus activé.", "Dossier prioritaire détecté.", "Validation stratégique obtenue."],
+  "popups": ["Nouveau dossier approuvé.", "Un oncle vient d'être converti.", "Bonus exceptionnel débloqué.", "Votre potentiel financier augmente.", "Vous êtes désormais éligible au programme Millionnaire Cosmique Premium Gold Plus Ultra."],
+  "resultRates": {"principalPerUnit":585000, "loyaltyPerUnit":50000, "nuisancePerUnit":100000, "familyBonusTotalAtThreeRelatives":175000}
+}
